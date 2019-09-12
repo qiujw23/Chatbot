@@ -13,7 +13,7 @@ from rasa_nlu.config import RasaNLUModelConfig
 from rasa_nlu.model import Trainer
 from rasa_nlu import config
 
-
+__author__ = "David Qiu <qiujw@shanghaitech.edu.cn>"
 patterns = {'greet': re.compile("hello|hi |hey |what's up |Hello|Hi|Hey|What's up|How are you"),
 		    'goodbye': re.compile('bye|farewell|goodbye|byebye|End|Stop|Bye|Farewell|Goodbye|Byebye|end|stop'),
 		    'deny': re.compile(" no | not | never |n't|No |Never"),
