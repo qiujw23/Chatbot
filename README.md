@@ -69,7 +69,7 @@ for more details
 6. Start to chat!
 ## contact information for the distributor or programmer
 ***Email:*** qiujw@shanghaitech.edu.cn<br>
-***Website:*** https://github.com/qiujw23/mygit1
+***Website:*** https://github.com/qiujw23/Chatbot
 ## a changelog
-* 2019.9.11 uploade file 
-* 2019.9.11 upload report, README.md
+* 2019.9.11 uploade file ，README.md
+* 2019.9.13 upload report, 
