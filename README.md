@@ -1,6 +1,6 @@
 # Weather query Chatbot
 ## Demo<br>
-![Demo](https://github.com/qiujw23/Chatbot/blob/master/chatbot_demo.mp4 "Demo")<br>  
+![Demo](https://github.com/qiujw23/Chatbot/blob/master/chatbot_demo.gif "Demo")<br>  
 ## Configuration Instructions
 ## Installation Instructions
 There are few online packages need to be installed for this project
@@ -69,7 +69,7 @@ for more details
 6. Start to chat!
 ## contact information for the distributor or programmer
 ***Email:*** qiujw@shanghaitech.edu.cn<br>
-***Website:*** https://github.com/qiujw23/mygit1
+***Website:*** https://github.com/qiujw23/Chatbot
 ## a changelog
-* 2019.9.11 uploade file 
-* 2019.9.11 upload report, README.md
+* 2019.9.11 uploade file ，README.md
+* 2019.9.13 upload report, 
