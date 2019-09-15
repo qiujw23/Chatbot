@@ -1,6 +1,8 @@
 # Weather query Chatbot
-## Demo<br>
-![Demo](https://github.com/qiujw23/Chatbot/blob/master/chatbot_demo.gif "Demo")<br>  
+## Demo-GIF<br>
+![Demo](https://github.com/qiujw23/Chatbot/blob/master/chatbot_demo.gif "Demo")<br>
+## Demo-Video<br>
+![Demo](https://github.com/qiujw23/Chatbot/blob/master/chatbot_demo.mp4 "Demo")<br>
 ## Configuration Instructions
 ## Installation Instructions
 There are a few online packages needed to be installed for this project
