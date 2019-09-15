@@ -3,11 +3,11 @@
 ![Demo](https://github.com/qiujw23/Chatbot/blob/master/chatbot_demo.gif "Demo")<br>  
 ## Configuration Instructions
 ## Installation Instructions
-There are few online packages need to be installed for this project
+There are a few online packages needed to be installed for this project
 ### Rasa-NLU
 ***Prerequisites***<br>
 <br>
-Make sure your other packages on your computer are compatible with rasa-NLU.
+Make sure your other packages on your computer are compatible with rasa-NLU.<br>
 ***Setting up Rasa NLU***<br>
 <br>
 **Stable (Recommended)**<br>
@@ -72,4 +72,4 @@ for more details
 ***Website:*** https://github.com/qiujw23/Chatbot
 ## a changelog
 * 2019.9.11 uploade file ，README.md
-* 2019.9.13 upload report, 
+* 2019.9.14 upload report, 
