@@ -2,6 +2,7 @@
 ## Demo-GIF<br>
 ![Demo](https://github.com/qiujw23/Chatbot/blob/master/chatbot_demo.gif "Demo")<br>
 ## Demo-Video<br>
+The video is a little big, so you may have to download and watch it.
 ![Demo](https://github.com/qiujw23/Chatbot/blob/master/chatbot_demo.mp4 "Demo")<br>
 ## Configuration Instructions
 ## Installation Instructions
